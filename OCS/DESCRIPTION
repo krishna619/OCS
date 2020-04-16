@@ -1,0 +1,10 @@
+Name: OCS
+Version: 0.1.5
+Date: 2015-08-7
+Author: Carlo de Falco, Culpo Massimiliano, Marco Merlin
+Maintainer: Carlo de Falco, Culpo Massimiliano
+Title: Octave Circuit Simulator
+Description: Package for solving DC and transient electrical circuit equations 
+Depends: octave (>= 3.0.0), odepkg
+Autoload: no
+License: GPLv2+

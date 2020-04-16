@@ -1,0 +1,13 @@
+Summary of important user-visible changes for ocs 0.1.5:
+-------------------------------------------------------------------
+
+ ** Fixed use of obsolete LaTeX commands in some documents (bug #45638).
+
+ ** Added missing functions to INDEX.
+ 
+Summary of important user-visible changes for ocs 0.1.4:
+-------------------------------------------------------------------
+
+ ** Fixed a few incompatibilities with Octave 4.0 and warnings about
+    use of deprecated syntax.
+
